@@ -4,3 +4,4 @@ This is an interactive app where when you press the button “roll” it will ra
 
 Here is the previsualization:
 
+![screenshot](https://github.com/kamilapereira/DiceRollerApp/assets/113510216/de596030-975c-44cc-ac70-2635436f37de)
